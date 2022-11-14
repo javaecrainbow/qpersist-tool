@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.javaecrainbow.qpersisttool.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.javaecrainbow.qpersisttool.MyBundle
 
 class MyApplicationService {
 
